@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Decagon Android 007</string>
+    <string name="recent">Recent</string>
+    <string name="contacts">Contacts</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="newContactImage">New Contact Image</string>
+    <string name="newContact_Name">Name</string>
+    <string name="name_hintInputText">Name</string>
+    <string name="phoneNumber_hintInputText">PhoneNumber</string>
+    <string name="emailAddress_hintInputText">Email</string>
+    <string name="contact_Image">ContactImage</string>
 </resources>
